@@ -40,10 +40,9 @@ If you have feedback or questions email [brandon@bethanygovernment.org](mailto:b
 - [nwnatural.com](https://www.nwnatural.com)
 - 1.800.422.4012
 
-**Garbage - Waste Management Northwest**
+**Garbage**
 
-- [wmnorthwest.com/portland](https://www.wmnorthwest.com/portland)
-- 1.800.808.5901
+- [Lookup your Garbage Provider using Washington County's Tool](https://www.co.washington.or.us/HHS/SWR/#whopicksup)
 
 **Water/Sewer - Tualatin Water Valley District**
 
