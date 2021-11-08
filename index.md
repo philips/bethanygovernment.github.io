@@ -4,7 +4,7 @@ title: Bethany Oregon Government
 
 The Bethany region of unincorporated Washington County is a rapidly growing community. It is situated near Beaverton and is north of Highway 26. Major employers in the region include Nike, Intel, Columbia Sportswear, and Tektronix.
 
-Many people moving to the Bethany area are confused at how their government and services work because they have a Portland postal address but they don't live in Portland. So, I created this website to provide links to all of the disparate resources in the area.
+Many people moving to the Bethany area are unsure of how their government and services work because the area has Portland addresses but they don't live in the City of Portland. So, I created this website to provide links to all of the disparate resources in the area.
 
 If you have feedback or questions email [brandon@bethanygovernment.org](mailto:brandon@bethanygovernment.org)
 
