@@ -6,19 +6,19 @@ Many people moving to the Bethany area are confused at how their government and 
 
 If you have feedback or questions email [brandon@bethanygovernment.org](mailto:brandon@bethanygovernment.org)
 
-### Washington County Government Representation
+## Washington County Government Representation
 
 - [Board of Commissioners, District 2](https://www.co.washington.or.us/BOC/)
 - [Community Participation Organization Townhalls](https://www.co.washington.or.us/CAO/CPO/CPO7/index.cfm)
 
 
-## Services
+## School and Recreation Services
 
 - [Beaverton School District](https://www.beaverton.k12.or.us)
 - [Tualatin Hills Park and Recreation District](http://www.thprd.org)
 - [Bethany Library](https://www.wccls.org/libraries/cedarmillbethany)
 
-### Law Enforcement
+## Law Enforcement
 
 **Washington County Sheriff**
 
@@ -26,7 +26,7 @@ If you have feedback or questions email [brandon@bethanygovernment.org](mailto:b
 - Bethany is an [Enhanced Patrol District](https://www.co.washington.or.us/ESPD)
 - +15036290111 - non emergency dispatch
 
-### Utility Service Providers
+## Utility Service Providers
 
 **Electric - PGE (Portland General Electric)**
 
