@@ -48,3 +48,8 @@ If you have feedback or questions email [brandon@bethanygovernment.org](mailto:b
 
 - [tvwd.org](https://www.tvwd.org/)
 - 1.503.848.3000
+
+## Why isn't Bethany a City?
+
+- [Will neighbors found a new city in urban Washington County?](https://pamplinmedia.com/pt/9-news/525649-418070-will-neighbors-found-a-new-city-in-urban-washington-county?wallit_nosession=1)
+- [Bethany Coalition seeks a voice in planning](https://cedarmillnews.com/legacy/archive/1205/bethany_coalition.html)
