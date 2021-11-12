@@ -23,7 +23,6 @@ If you have feedback or questions email [brandon@bethanygovernment.org](mailto:b
 
 - [Beaverton School District](https://www.beaverton.k12.or.us)
 - [Tualatin Hills Park and Recreation District](http://www.thprd.org)
-  - [Tualatin Hills Park and Recreation Newsletter](http://www.thprd.org/connect/e-newsletter)
 - [Bethany Library](https://www.wccls.org/libraries/cedarmillbethany)
 
 ## Law Enforcement
