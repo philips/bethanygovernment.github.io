@@ -49,10 +49,14 @@ If you have feedback or questions email [brandon@bethanygovernment.org](mailto:b
 
 - [Lookup your Garbage Provider using Washington County's Tool](https://www.co.washington.or.us/HHS/SWR/#whopicksup)
 
-**Water/Sewer - Tualatin Water Valley District**
+**Water - Tualatin Water Valley District**
 
 - [tvwd.org](https://www.tvwd.org/)
 - 1.503.848.3000
+
+**Sewer/Storm Water - Clean Water Services**
+
+- [cleanwaterservices.org](http://cleanwaterservices.org/)
 
 ## Why isn't Bethany a City?
 
