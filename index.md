@@ -62,3 +62,10 @@ If you have feedback or questions email [brandon@bethanygovernment.org](mailto:b
 
 - [Will neighbors found a new city in urban Washington County?](https://pamplinmedia.com/pt/9-news/525649-418070-will-neighbors-found-a-new-city-in-urban-washington-county?wallit_nosession=1)
 - [Bethany Coalition seeks a voice in planning](https://cedarmillnews.com/legacy/archive/1205/bethany_coalition.html)
+- [Urban Needs, Rural Government](https://cedarmillnews.com/legacy/UrbanNeeds/)
+
+## Local News
+
+- [Cedar Mill News](https://cedarmillnews.com)
+- [Beaverton Valley Times](https://pamplinmedia.com/beaverton-valley-times-home/)
+- [Patch Beaverton News](https://patch.com/oregon/beaverton) 
